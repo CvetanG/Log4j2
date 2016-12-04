@@ -1,0 +1,18 @@
+# Maven
+log/
+target/
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+*/build
+
+/bin/
+/Servers/
+
+/.metadata/
+/.recommenders/
+
+/RemoteSystemsTempFiles/
