@@ -1,0 +1,15 @@
+08/Nov/2017 21:51:30,881- Example: Info : number is 4
+08/Nov/2017 21:51:30,882- Example: Warning : number is 4
+08/Nov/2017 21:51:30,882- Example: Debug : number is 4
+08/Nov/2017 21:51:30,882- Example: Error : number is 4
+08/Nov/2017 21:51:30,882- Example: Fatal : number is 4
+08/Nov/2017 21:51:30,883- Example: Info : You chose a number < 100 
+08/Nov/2017 21:51:30,883- Example: Warning : You chose a number < 100 
+08/Nov/2017 21:51:30,883- Example: Debug : You chose a number < 100 
+08/Nov/2017 21:51:30,883- Example: Error : You chose a number < 100 
+08/Nov/2017 21:51:30,883- Example: Fatal : You chose a number < 100 
+08/Nov/2017 21:51:30,883- Example: Info : Your number has the digit 4
+08/Nov/2017 21:51:30,883- Example: Warning : Your number has the digit 4
+08/Nov/2017 21:51:30,883- Example: Debug : Your number has the digit 4
+08/Nov/2017 21:51:30,883- Example: Error : Your number has the digit 4
+08/Nov/2017 21:51:30,884- Example: Fatal : Your number has the digit 4
